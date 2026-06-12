@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sweetbay.github.io/quartz
+  baseUrl: "healing-systems.github.io/quartz-garden"
   ignorePatterns:
     - private
     - templates
